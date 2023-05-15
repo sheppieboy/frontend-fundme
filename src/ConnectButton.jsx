@@ -8,7 +8,7 @@ const ConnectButton = () => {
     }
   };
 
-  return <button onClick={connect}>CONNNECTTTTTTTTT</button>;
+  return <button onClick={connect}>Connect</button>;
 };
 
 export default ConnectButton;
